@@ -16,7 +16,7 @@
 // is called when CCB file has completed loading
 - (void)didLoadFromCCB {
     // tell this scene to accept touches
-    self.userInteractionEnabled = TRUE;
+    self.userInteractionEnabled = true;
 }
 
 // called on every touch in this scene
